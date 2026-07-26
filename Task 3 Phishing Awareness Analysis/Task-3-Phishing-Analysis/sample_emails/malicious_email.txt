@@ -1,0 +1,11 @@
+From: IT Security <it-support@mycompany-secure-login.com>
+Return-Path: hacker123@gmail.com
+Subject: URGENT: Password Expires in 24 hrs
+
+Mandatory: Password expires in 24 hrs. 
+You must click the link below immediately to avoid account lockout. 
+This is strictly confidential.
+
+http://www.mycompany.tech.login-update.com/reset
+
+Thank you.

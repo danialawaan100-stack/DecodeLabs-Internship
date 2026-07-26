@@ -1,0 +1,10 @@
+From: hr@mycompany.com
+Return-Path: hr@mycompany.com
+Subject: Team Lunch on Friday
+
+Hi team,
+Just a reminder that we are having a team lunch this Friday at 1 PM in the main breakroom. 
+Please let me know if you have dietary restrictions.
+
+Thanks,
+HR Team
